@@ -1,9 +1,9 @@
-|INFO> SectionBegin Load загружаем всё [this=0x000000C6262FF558] line #18
-|INFO> SectionBegin LoadBox0 загружаем коробку [this=0x000000C6262FF558] line #20
-|INFO> SectionEnd LoadBox0 загружена коробка [this=0x000000C6262FF558] line #22
-|INFO> SectionBegin LoadBox1 загружаем коробку [this=0x000000C6262FF558] line #20
-|INFO> SectionEnd LoadBox1 загружена коробка [this=0x000000C6262FF558] line #22
-|INFO> SectionBegin LoadBox2 загружаем коробку [this=0x000000C6262FF558] line #20
-|INFO> SectionEnd LoadBox2 загружена коробка [this=0x000000C6262FF558] line #22
-|INFO> SectionEnd Load загружено всё [this=0x000000C6262FF558] line #24
-|INFO> destroying 0x000000C6262FF558
+|INFO> SectionBegin Load загружаем всё [this=0x000000C1834FF618] line #18
+|INFO> SectionBegin LoadBox0 загружаем коробку [this=0x000000C1834FF618] line #20
+|INFO> SectionEnd LoadBox0 загружена коробка [this=0x000000C1834FF618] line #22
+|INFO> SectionBegin LoadBox1 загружаем коробку [this=0x000000C1834FF618] line #20
+|INFO> SectionEnd LoadBox1 загружена коробка [this=0x000000C1834FF618] line #22
+|INFO> SectionBegin LoadBox2 загружаем коробку [this=0x000000C1834FF618] line #20
+|INFO> SectionEnd LoadBox2 загружена коробка [this=0x000000C1834FF618] line #22
+|INFO> SectionEnd Load загружено всё [this=0x000000C1834FF618] line #24
+|INFO> destroying 0x000000C1834FF618

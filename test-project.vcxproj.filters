@@ -5,7 +5,7 @@
     <ClCompile Include="ILS\ILS_StdLog.cpp">
       <Filter>ILS</Filter>
     </ClCompile>
-    <ClCompile Include="ILS_LoggerStream.cpp">
+    <ClCompile Include="ILS\ILS_LoggerStream.cpp">
       <Filter>ILS</Filter>
     </ClCompile>
   </ItemGroup>

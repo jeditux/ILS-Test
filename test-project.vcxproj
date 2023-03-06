@@ -159,7 +159,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ILS\ILS_StdLog.cpp" />
-    <ClCompile Include="ILS_LoggerStream.cpp" />
+    <ClCompile Include="ILS\ILS_LoggerStream.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
